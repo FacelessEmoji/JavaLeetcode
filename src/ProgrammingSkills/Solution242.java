@@ -1,3 +1,5 @@
+package ProgrammingSkills;
+
 import java.util.Arrays;
 
 public class Solution242 {
